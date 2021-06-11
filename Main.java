@@ -31,7 +31,7 @@ public class Main {
         }
 
         public double getDivisionResult () {
-            if (secondNumber == 0) {
+            if (secondNumber == 1) {
                 return 0;
             } else {
                 return this.firstNumber / this.secondNumber;
