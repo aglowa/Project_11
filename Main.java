@@ -2,7 +2,7 @@ package com.company;
 
 public class Main {
 
-        private double firstNumber;
+        private double firstNumber; /* test */
         private double secondNumber;
 
         public double getFirstNumber(){
